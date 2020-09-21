@@ -1,0 +1,9 @@
+Natural language processing (NLP) is an area of computer science and artificial intelligence concerned with the interaction between computers and humans in natural language. The ultimate goal of NLP is to help computers understand language as well as we do. It is the driving force behind things like virtual assistants, speech recognition, sentiment analysis, automatic text summarization, machine translation and much more. In this post, we'll cover the basics of natural language processing, dive into some of its techniques and also learn how NLP has benefited recent advances in deep learning.
+
+Natural language processing (NLP) is the intersection of computer science, linguistics and machine learning. The field focuses on communication between computers and humans in natural language and NLP is all about making computers understand and generate human language. Applications of NLP techniques include voice assistants like Amazon's Alexa and Apple's Siri, but also things like machine translation and text-filtering.
+
+NLP has heavily benefited from recent advances in machine learning, especially from deep learning techniques. The field is divided into the three parts:
+
+Speech Recognition -  The translation of spoken language into text.
+Natural Language Understanding - The computer's ability to understand what we say.
+Natural Language Generation - The generation of natural language by a computer.
